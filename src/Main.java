@@ -3,7 +3,7 @@ import java.sql.SQLOutput;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Udemy: Java Programming Masterclass");
-        System.out.println("Coding Exercise: Equality Printer");
+        System.out.println("Coding Exercise: Number In Word");
         System.out.println("");
 
         printNumberInWord(0);
